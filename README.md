@@ -1,4 +1,4 @@
-# π--TB
+# πTB
 
 ## Binary-first ingest for MATRIX / ATOMIC-DOM
 
